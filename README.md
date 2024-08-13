@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am Muhammad Atif Hasnain<br>A DevOps Engineer with a passion for automating infrastructure and delivering software efficiently.
+# 💫 Hi, I'm Muhammad Atif Hasnain:
+A DevOps Engineer with a passion for automating infrastructure and delivering software efficiently.
 
 
 ## 🌐 Socials:
